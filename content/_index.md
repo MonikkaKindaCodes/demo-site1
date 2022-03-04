@@ -21,6 +21,12 @@ Hugo Books is a documentation static site generator that's used to assists with 
 - Comments support
 - Simple blog and taxonomy
 - Primary features work without JavaScript
+<<<<<<< HEAD
 - [Dark Mode](https://whatis.techtarget.com/definition/dark-mode)
 
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}git pu
+=======
+- Dark Mode
+
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+>>>>>>> 90de8fd0c794339657ee114147b77241def72fd2
