@@ -2,7 +2,7 @@
 title: New Sample Post
 weight: 4
 bookToc: true
-bookHidden: true
+bookHidden: false
 ---
 New Content Post 
 
