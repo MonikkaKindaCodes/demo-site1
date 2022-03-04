@@ -1,6 +1,6 @@
 baseURL = 'https://objective-ramanujan-c1164f.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Docs'
 theme = "hugo-book"
 [params]
     BookTheme = 'dark'
